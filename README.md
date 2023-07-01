@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/1Defender/rsschool-cv.git
