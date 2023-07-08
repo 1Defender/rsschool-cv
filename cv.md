@@ -1,6 +1,8 @@
-# Hello my friend
+# Rsschool-CV
 
-## My name Konstantin
+## Konstantin Sokolsky
+
+## Menedger
 
 (https://github.com/1Defender/rsschool-cv.git)
 
