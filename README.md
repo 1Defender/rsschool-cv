@@ -1,1 +1,1 @@
-https://1Defender.github.io/rsschool-cv/
+https://1Defender.github.io/rsschool-cv
